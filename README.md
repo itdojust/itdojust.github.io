@@ -1,0 +1,2 @@
+# itdojust.github.io
+blog
