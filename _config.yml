@@ -1,11 +1,11 @@
 # Basic
-title: 潘柏信
+title: 童剑
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 剑行剑远
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: JAVA / 生活
 url: "http://blog.tongjian.me/"
 
 # Comment
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 5742203552 
+    github: itdojust
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: find@tongjian.me
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -31,17 +31,6 @@ ga:
     id: UA-84134159-3   
     host: auto  
 
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
-
 permalink: /:year/:month/:title/
 # Format
 highlighter: rouge
@@ -53,7 +42,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 童剑首页
 
 # Navigation buttons in the front page.s
 nav:
