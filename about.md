@@ -16,7 +16,7 @@ title: 关于我
 <h3>联系方式</h3>  
 
 <p>
-email：find@tongjian.com
+email：find@tongjian.me
 </p>
 
 <p>
