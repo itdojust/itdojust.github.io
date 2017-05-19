@@ -23,8 +23,6 @@ email：find@tongjian.me
 QQ：838149698
 </p>
 
-博客源码在 <a target="_blank" href='https://github.com/itdojust/itdojust.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
 {% include comments.html %}
 
 
